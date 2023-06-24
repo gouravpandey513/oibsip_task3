@@ -1,0 +1,59 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    border-style: groove;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: Black;
+    border-style: inset;
+    border-width: 10px;
+    border-color: whitesmoke;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: purple;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .section {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: red;
+  }
+
+  h3 {
+    font-size: 18px;
+    color:green;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #999;
+  }
+  
+  
